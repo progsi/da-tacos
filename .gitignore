@@ -5,3 +5,5 @@ data/da-tacos_metadata/README.md
 data/yt_id_list.csv
 data/da-tacos_benchmark.csv
 .vscode/launch.json
+data_to_h5.ipynb
+data_to_h5.ipynb
